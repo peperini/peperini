@@ -5,7 +5,7 @@
 #### Web Programming:
 - 🥽 **3D Rendering:** WebGL, Threejs - For web 3D experiences.
 - 🎠 **Graphics & Animation:** Shaders (graphic effects), GSAP (animations), D3js (data visualizations).
-- 👨‍💻 **JavaScript & Extensions:** JavaScript, TypeScript, JSX, React - Enhancing web page interactivity and structure.
+- 👨‍💻 **JavaScript & Extensions:** JavaScript, TypeScript - Enhancing web page interactivity and structure.
 - 🧹 **Utilities & Libraries:** Lodash, npm, Vite, Webpack - Facilitating and improving programming.
 - 👁‍🗨 **Design & Templating:** SVG, Handlebars, Pug, SCSS - Efficient design and templating methods.
 
