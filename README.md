@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Armando Felix
+## Hi there 👋 I'm José Felix
 
 🔭 Dedicated Web Application Developer with over 6 years of leadership in both remote and on-site web projects, specializing in UI/UX design and frontend programming. I'm passionate about designing and creating cutting-edge and creative digital web experiences using WebGL, Shaders, JavaScript, and a wide range of cutting-edge tools and technologies that I've used in the past:
 
