@@ -15,6 +15,7 @@ From Threejs to Motion and Design Thinking, my comprehensive skillset and solid 
 - 🖼️ **CMS (Content Management Systems):** Prismic, Shopify.
 - 🎒 **Backend:** Node, Express.
 - 🚀 **Deployment:** Vercel, Netlify.
+- 🧪 **A/B and Unit Testing:** Adobe Target, Jest.
 
 #### Web Design:
 - 🔬 **Design Frameworks:** Design Thinking - Creative problem solving and expansive design processes.
