@@ -1,20 +1,25 @@
 ## Hi there 👋 I'm José Felix
 
-🔭 Dedicated Web Application Developer with over 6 years of leadership in both remote and on-site web projects, specializing in UI/UX design and frontend programming. I'm passionate about designing and creating cutting-edge and creative digital web experiences using WebGL, Shaders, JavaScript, and a wide range of cutting-edge tools and technologies that I've used in the past:
+🔭 Creative Web Developer and Designer. I love to craft top-tier memorable websites with unique interactions, captivating animations, and clever effects.
+
+From Threejs to Motion and Design Thinking, my comprehensive skillset and solid experience in the industry, allow me to help you solve any design or code challenge and grow your business.
 
 #### Web Programming:
-- 🥽 **3D Rendering:** WebGL, Threejs - For web 3D experiences.
-- 🎠 **Graphics & Animation:** Shaders (graphic effects), GSAP (animations), D3js (data visualizations).
-- 👨‍💻 **JavaScript & Extensions:** JavaScript, TypeScript - Enhancing web page interactivity and structure.
-- 🧹 **Utilities & Libraries:** Lodash, npm, Vite, Webpack - Facilitating and improving programming.
-- 👁‍🗨 **Design & Templating:** SVG, Handlebars, Pug, SCSS - Efficient design and templating methods.
+- 🥽 **WebGL Frameworks and GLSL Shaders:** Threejs - For web 3D experiences and Shaders.
+- 🧑‍💻 **JavaScript Frameworks:** React, Next.js.
+- 🎠 **JavaScript Libraries:** GSAP (GreenSock Animation Library), D3js (data visualizations), Lodash (utilities).
+- 🏛️ **JavaScript Architecture and Build Tools:** npm, Webpack, Vite.js - Facilitating and improving programming.
+- 👷‍♂️ **Template Engines:** Pug, JSX.
+- 👁‍🗨 **CSS Preprocessors:** SCSS.
+- 🏛️ **CSS Architecture:** BEM, SMACSS.
+- 🖼️ **CMS (Content Management Systems):** Prismic, Shopify.
+- 🎒 **Backend:** Node, Express.
+- 🚀 **Deployment:** Vercel, Netlify.
 
 #### Web Design:
-- 🔬 **Design Methods:** Design Thinking, Double Diamond - Creative problem solving and expansive design processes.
-- 🙇‍♀️ **UI/UX Design Tools:** Figma, Sketch - Prototyping, mockups, and stakeholder communication.
-- 💻**Graphics & Editing:** After Effects (animations), Illustrator (vectors), Photoshop (photo editing).
-- 🧾 **Usability & Testing:** Usability Testing, Competitive Audits, Information Architecture.
-- 🗳 **Feedback & Insights:** Hotjar, Interactive Design, Motion Design.
+- 🔬 **Design Frameworks:** Design Thinking - Creative problem solving and expansive design processes.
+- 🙇‍♀️ **UI/UX Design Tools:** Figma (prototyping), Sketch (prototyping), After Effects (animations), Illustrator (vectors), Photoshop (photo editing).
+- 🧾 **Usability & Testing:** Usability Testing, Competitive Audits, Information Architecture, Design Thinking Workshops, User Personas.
 
 #### Tools I have experience with
 
@@ -22,11 +27,11 @@
 
 #### 📫 How to reach me:
 <p align="left">
-<a href="https://dribbble.com/josearmandofelix" target="_blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="armando felix" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/josearmandofelix/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30" width="30" /></a>
-<a href="https://twitter.com/jarmandofelix" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armando felix" height="30" width="40" /></a>
-<a href="https://wa.me/526674772202" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="armando felix" height="30" width="30" /></a>
-<a href="mailto:josearmando.zara@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" alt="armando felix" height="30" width="30" /></a>
+<a href="https://dribbble.com/josefelixzara" target="_blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="armando felix" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/josefelixzara/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30" width="30" /></a>
+<a href="https://x.com/josefelix_zara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jose felix twitter" height="30" width="40" /></a>
+<a href="https://wa.me/526678449443" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="armando felix" height="30" width="30" /></a>
+<a href="mailto:jarmando.felix@icloud.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" alt="armando felix" height="30" width="30" /></a>
 </p>
 
 
