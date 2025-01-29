@@ -1,4 +1,4 @@
-## Hi there 👋 I'm José Felix
+## Hi there 👋 I'm Felix
 
 🔭 Creative Web Developer and Designer. I love to craft top-tier memorable websites with unique interactions, captivating animations, and clever effects.
 
