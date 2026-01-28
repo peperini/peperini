@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Jose Felix, Creative frontend developer & designer specializing in WebGL (Three.js, OGL), GLSL Shaders, GSAP and JavaScript to build immersive creative websites with unique interactions, captivating animations, and clever effects.
+I’m Jose Felix, creative frontend developer & designer specializing in WebGL (Three.js, OGL), GLSL Shaders, GSAP and JavaScript to build immersive creative websites with unique interactions, captivating animations, and clever effects.
 
 From design to code, I place a lot of importance on Pixel Perfect translation from design to production. I'm very comfortable working from Figma and motion references, using tools like Figma Dev Mode, CSS techniques and visual QA workflows to ensure the live site matches the intended layout, spacing, typography and motion with a high level of accuracy.
 
