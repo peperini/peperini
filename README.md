@@ -5,8 +5,8 @@ I’m Jose Felix, Creative frontend developer & designer specializing in WebGL (
 From design to code, I place a lot of importance on Pixel Perfect translation from design to production. I'm very comfortable working from Figma and motion references, using tools like Figma Dev Mode, CSS techniques and visual QA workflows to ensure the live site matches the intended layout, spacing, typography and motion with a high level of accuracy.
 
 #### Web Development:
-- 🥽 **Creative Coding:** WebGL (Threejs, OGL), GLSL Shaders, GSAP, D3js
-- 🧑‍💻 **Frontend Frameworks:** Vue, Nuxt
+- 🥽 **Creative Coding:** WebGL (Three.js, OGL), GLSL Shaders, GSAP, JavaScript, D3js
+- 🧑‍💻 **Frontend Frameworks/Libraries:** Vue, Nuxt, TypeScript, Lodash
 - 🪮 **Styling & Templating:** SCSS, Pug, Bootstrap
 - 🏛️ **Architecture and Build Tools:** Vite, Webpack, npm, 11ty
 - 🏛️ **CSS Architecture:** BEM, SMACSS.
