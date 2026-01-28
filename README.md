@@ -7,15 +7,15 @@ From design to code, I place a lot of importance on Pixel Perfect translation fr
 #### Web Development:
 - 🥽 **Creative Coding:** WebGL (Threejs, OGL), GLSL Shaders, GSAP, D3js
 - 🧑‍💻 **Frontend Frameworks:** Vue, Nuxt
--  **Styling & Templating:** SCSS, Pug, Bootstrap
+- 🪮 **Styling & Templating:** SCSS, Pug, Bootstrap
 - 🏛️ **Architecture and Build Tools:** Vite, Webpack, npm, 11ty
 - 🏛️ **CSS Architecture:** BEM, SMACSS.
 - 🖼️ **CMS & eCommerce:** Prismic, Strapi, Craft, Shopify
 - 🎒 **Backend:** Node, Express.
 - 🚀 **Deployment:** Vercel, Netlify.
 - 🧪 **Testing & Optimization:** Jest, FigPii, Lighthouse, Chrome DevTools
--  **Version Control:** Git, Github, Github Actions
--  **APIs:** Intersection Observer, LocalStorage / SesionStorage, History API, Fetch API, Shopify Storefront API
+- 🕹️ **Version Control:** Git, Github, Github Actions
+- 🔌 **APIs:** Intersection Observer, LocalStorage / SesionStorage, History API, Fetch API, Shopify Storefront API
 
 #### Web Design:
 - 🔬 **Tools** Figma, Sketch, After Effects, Illustrator, Photoshop
