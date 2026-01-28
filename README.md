@@ -27,8 +27,8 @@ From design to code, I place a lot of importance on Pixel Perfect translation fr
 <a href="https://dribbble.com/josefelixzara" target="_blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="armando felix" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/josefelixzara/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30" width="30" /></a>
 <a href="https://x.com/josefelix_zara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jose felix twitter" height="30" width="40" /></a>
-<a href="https://wa.me/526678449443" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="armando felix" height="30" width="30" /></a>
-<a href="mailto:hey@josefelix.co" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" alt="jose felix" height="30" width="30" /></a>
+<a href="https://wa.me/526678449443" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="jose felix" height="30" width="30" /></a>
+<a href="mailto:hey@josearmandofelix.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" alt="jose felix" height="30" width="30" /></a>
 </p>
 
 
