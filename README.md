@@ -1,30 +1,26 @@
-## Hi there 👋 I'm Jose Felix
+## Hi there 👋
 
-🔭 Creative Web Developer and Designer. I love to craft top-tier memorable websites with unique interactions, captivating animations, and clever effects.
+I’m Jose Felix, Creative Developer and Designer specializing in WebGL(Three.js, OGL), GLSL Shaders, GSAP and JavaScript to build immersive creative websites with unique interactions, captivating animations, and clever effects.
 
-From Threejs to Motion and Design Thinking, my comprehensive skillset and solid experience in the industry, allow me to help you solve any design or code challenge and grow your business.
+From design to code, I place a lot of importance on Pixel Perfect translation from design to production. I'm very comfortable working from Figma and motion references, using tools like Figma Dev Mode, CSS techniques and visual QA workflows to ensure the live site matches the intended layout, spacing, typography and motion with a high level of accuracy.
 
-#### Web Programming:
-- 🥽 **WebGL Frameworks and GLSL Shaders:** Threejs - For web 3D experiences and Shaders.
-- 🧑‍💻 **JavaScript Frameworks:** React, Next.js.
-- 🎠 **JavaScript Libraries:** GSAP (GreenSock Animation Library), D3js (data visualizations), Lodash (utilities).
-- 🏛️ **JavaScript Architecture and Build Tools:** npm, Webpack, Vite.js - Facilitating and improving programming.
-- 👷‍♂️ **Template Engines:** Pug, JSX.
-- 👁‍🗨 **CSS Preprocessors:** SCSS.
+#### Web Development:
+- 🥽 **Creative Coding:** WebGL (Threejs, OGL), GLSL Shaders, GSAP, D3js
+- 🧑‍💻 **Frontend Frameworks:** Vue, Nuxt
+-  **Styling & Templating:** SCSS, Pug, Bootstrap
+- 🏛️ **Architecture and Build Tools:** Vite, Webpack, npm, 11ty
 - 🏛️ **CSS Architecture:** BEM, SMACSS.
-- 🖼️ **CMS (Content Management Systems):** Prismic, Shopify.
+- 🖼️ **CMS & eCommerce:** Prismic, Strapi, Craft, Shopify
 - 🎒 **Backend:** Node, Express.
 - 🚀 **Deployment:** Vercel, Netlify.
-- 🧪 **A/B and Unit Testing:** Adobe Target, Jest.
+- 🧪 **Testing & Optimization:** Jest, FigPii, Lighthouse, Chrome DevTools
+-  **Version Control:** Git, Github, Github Actions
+-  **APIs:** Intersection Observer, LocalStorage / SesionStorage, History API, Fetch API, Shopify Storefront API
 
 #### Web Design:
-- 🔬 **Design Frameworks:** Design Thinking - Creative problem solving and expansive design processes.
-- 🙇‍♀️ **UI/UX Design Tools:** Figma (prototyping), Sketch (prototyping), After Effects (animations), Illustrator (vectors), Photoshop (photo editing).
-- 🧾 **Usability & Testing:** Usability Testing, Competitive Audits, Information Architecture, Design Thinking Workshops, User Personas.
+- 🔬 **Tools** Figma, Sketch, After Effects, Illustrator, Photoshop
 
-#### Tools I have experience with
 
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="Vite" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/es/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" alt="after effects" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Z1224Ow_7ARp9D-xuL1MUxmHdo8458OkgqaIchZ6Kg&s" alt="xd" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/react-icon-512x512-u6e60ayf.png" alt="xd" width="40" height="40"/> </a> <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" alt="threejs" width="40" height="40"/> </a> <a href="https://gsap.com/" target="_blank" rel="noreferrer"> <img src="https://assets.awwwards.com/awards/avatar/2152182/652d1de29c2e9754617887.png" alt="green sock animation platform icon" width="40" height="40"/> </a> <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png" alt="npm icon" width="40" height="40"/> </a> <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/34ent8ly/production/223a29eb0698fb7fbc6d158a6f7e698d155e025f-824x824.png" alt="vercel icon" width="40" height="40"/> </a> </p>
 
 #### 📫 How to reach me:
 <p align="left">
