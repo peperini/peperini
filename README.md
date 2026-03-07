@@ -6,8 +6,6 @@ I specialize in **WebGL/WebGPU**, **Three.js**, **GLSL shaders**, **GSAP**, and 
 
 My work spans interactive product showcases, custom Shopify stores, and data visualizations. I balance creative ambition with performance optimization so experiences look exceptional and run flawlessly on every device.
 
----
-
 ## 🛠 Tech Stack
 
 **Creative Coding**
@@ -34,8 +32,6 @@ My work spans interactive product showcases, custom Shopify stores, and data vis
 **APIs**
 `Intersection Observer` `Fetch API` `History API` `Shopify Storefront API` `LocalStorage / SessionStorage`
 
----
-
 ## 💼 Selected Experience
 
 **Lead Creative Developer** · Tecnológico de Monterrey *(2025–2026)*
@@ -50,8 +46,6 @@ Built the Coppel Growth Map (D3.js) and Sankey Diagram for executive-level finan
 **Creative Developer & Designer** · Cercas Humaya, Freelance *(2023)*
 End-to-end website: design thinking workshops → Three.js / GLSL / GSAP implementation → Prismic CMS integration.
 
----
-
 ## 🎓 Education & Courses
 
 - **B.S. Software Engineering** · Universidad México Internacional *(2025)*
@@ -60,16 +54,12 @@ End-to-end website: design thinking workshops → Three.js / GLSL / GSAP impleme
 - **Building an Immersive Creative Website from Scratch** · Luis Enrique Bizarro, Awwwards *(2025)*
 - **Motion Design with Purpose** · Louis Paquet, Awwwards *(2025)*
 
----
-
 ## 🏆 Recognition
 
 - 🥇 **Site of the Day** · Awwwards *(upcoming)*
 - 🌟 **Best Three.js Freelancers to Hire in 2025** · Contra
 - 🌟 **Best GSAP Freelancers to Hire in 2025** · Contra
 - 🌟 **Best Freelance Web Developers to Hire in 2025** · Contra
-
----
 
 ## 📬 Get in Touch
 
