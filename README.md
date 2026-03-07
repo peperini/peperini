@@ -73,7 +73,8 @@ End-to-end website: design thinking workshops → Three.js / GLSL / GSAP impleme
 
 ## 📬 Get in Touch
 
-[![Email](https://img.shields.io/badge/hey@josefelix.co-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hey@josefelix.co)
+[![Website](https://img.shields.io/badge/josefelix.co-000000?style=flat&logo=safari&logoColor=white)](https://josefelix.co)
+[![Email](https://img.shields.io/badge/hey@josefelix.co-EA4335?style=flat&logo=maildotru&logoColor=white)](mailto:hey@josefelix.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josefelixzara/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/josefelixzara)
 [![Awwwards](https://img.shields.io/badge/Awwwards-000000?style=flat&logo=awwwards&logoColor=white)](https://www.awwwards.com)
