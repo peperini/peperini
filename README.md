@@ -1,43 +1,80 @@
-## Hi there 👋
+# José Félix · Creative Technologist & Design Engineer
 
-I'm a Creative Technologist & Design Engineer working at the intersection of design and
-code, specializing in WebGL/WebGPU, Three.js, GLSL shaders, GSAP, and JavaScript to
-build immersive web experiences. 
+> Building immersive web experiences at the intersection of design and code.
 
-I handle both design and development; translating Figma designs and After Effects motion
-into <i>pixel-perfect</i>, production-ready code. From component architecture to interactive
-animations, I think in systems and deliver work that's visually compelling and technically
-solid.
+I specialize in **WebGL/WebGPU**, **Three.js**, **GLSL shaders**, **GSAP**, and **JavaScript** — translating Figma designs and After Effects motion into pixel-perfect, production-ready code. I think in systems: from component architecture to interactive animations, every piece is visually compelling and technically solid.
 
-My experience spans interactive product showcase websites, custom Shopify stores, and
-data visualizations. I balance creative ambition with performance optimization, ensuring
-experiences look exceptional and perform flawlessly across all devices
+My work spans interactive product showcases, custom Shopify stores, and data visualizations. I balance creative ambition with performance optimization so experiences look exceptional and run flawlessly on every device.
 
-#### Web Development:
-- 🥽 **Creative Coding:** WebGL (Three.js, OGL), GLSL Shaders, GSAP, JavaScript, D3js
-- 🧑‍💻 **Frontend Frameworks/Libraries:** Vue, Nuxt, TypeScript, Lodash
-- 🪮 **Styling & Templating:** SCSS, Pug, Bootstrap
-- 🏛️ **Architecture and Build Tools:** Vite, Webpack, npm, 11ty
-- 🏛️ **CSS Architecture:** BEM, SMACSS.
-- 🖼️ **CMS & eCommerce:** Prismic, Strapi, Craft, Shopify
-- 🎒 **Backend:** Node, Express.
-- 🚀 **Deployment:** Vercel, Netlify.
-- 🧪 **Testing & Optimization:** Jest, FigPii, Lighthouse, Chrome DevTools
-- 🕹️ **Version Control:** Git, Github, Github Actions
-- 🔌 **APIs:** Intersection Observer, LocalStorage / SesionStorage, History API, Fetch API, Shopify Storefront API
+---
 
-#### Web Design:
-- 🔬 **Tools** Figma, Sketch, After Effects, Illustrator, Photoshop
+## 🛠 Tech Stack
 
+**Creative Coding**
+`WebGL` `WebGPU` `Three.js` `OGL` `GLSL` `GSAP` `D3.js` `Cannon.js`
 
+**Frontend**
+`JavaScript` `TypeScript` `Vue` `Nuxt` `HTML5` `SCSS` `Pug` `Lodash`
 
-#### 📫 How to reach me:
-<p align="left">
-<a href="https://dribbble.com/josefelixzara" target="_blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="armando felix" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/josefelixzara/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30" width="30" /></a>
-<a href="https://x.com/josefelix_zara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jose felix twitter" height="30" width="40" /></a>
-<a href="https://wa.me/526675018080" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="jose felix" height="30" width="30" /></a>
-<a href="mailto:hey@josefelix.co" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" alt="jose felix" height="30" width="30" /></a>
-</p>
+**Build & Architecture**
+`Vite` `Webpack` `npm` `11ty` `BEM` `SMACSS`
 
+**CMS & eCommerce**
+`Shopify` `Prismic` `Strapi` `Craft`
 
+**Design & Motion**
+`Figma` `Figma Make` `After Effects` `Illustrator` `Photoshop`
+
+**Deployment & DevOps**
+`Vercel` `Netlify` `Git` `GitHub Actions`
+
+**Testing & Optimization**
+`Jest` `Lighthouse` `FigPii` `Chrome DevTools`
+
+**APIs**
+`Intersection Observer` `Fetch API` `History API` `Shopify Storefront API` `LocalStorage / SessionStorage`
+
+---
+
+## 💼 Selected Experience
+
+**Lead Creative Developer** · Tecnológico de Monterrey *(2025–2026)*
+Interactive e-learning modules, animated question types, and LMS integrations using JavaScript, GSAP, and Three.js.
+
+**Lead Shopify Developer** · ThrillX Design Agency, Toronto *(2024)*
+Led frontend for 6–8 Shopify & WordPress projects — custom Liquid themes, DTC brand builds, and Core Web Vitals optimization.
+
+**Creative Developer & Designer, Data Visualization** · Coppel *(2019–2024)*
+Built the Coppel Growth Map (D3.js) and Sankey Diagram for executive-level financial storytelling. Led the Data Coppel democratization platform.
+
+**Creative Developer & Designer** · Cercas Humaya, Freelance *(2023)*
+End-to-end website: design thinking workshops → Three.js / GLSL / GSAP implementation → Prismic CMS integration.
+
+---
+
+## 🎓 Education & Courses
+
+- **B.S. Software Engineering** · Universidad México Internacional *(2025)*
+- **Three.js Journey** · Bruno Simon *(2026)*
+- **Memorable UI Design for Interactive Experiences** · Louis Paquet, Awwwards *(2025)*
+- **Building an Immersive Creative Website from Scratch** · Luis Enrique Bizarro, Awwwards *(2025)*
+- **Motion Design with Purpose** · Louis Paquet, Awwwards *(2025)*
+
+---
+
+## 🏆 Recognition
+
+- 🥇 **Site of the Day** · Awwwards *(upcoming)*
+- 🌟 **Best Three.js Freelancers to Hire in 2025** · Contra
+- 🌟 **Best GSAP Freelancers to Hire in 2025** · Contra
+- 🌟 **Best Freelance Web Developers to Hire in 2025** · Contra
+
+---
+
+## 📬 Get in Touch
+
+[![Email](https://img.shields.io/badge/hey@josefelix.co-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hey@josefelix.co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josefelixzara/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/josefelixzara)
+[![Awwwards](https://img.shields.io/badge/Awwwards-000000?style=flat&logo=awwwards&logoColor=white)](https://www.awwwards.com)
+[![X](https://img.shields.io/badge/@josefelix__zara-000000?style=flat&logo=x&logoColor=white)](https://x.com/josefelix_zara)
